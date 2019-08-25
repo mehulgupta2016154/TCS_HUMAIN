@@ -19,3 +19,6 @@
 5. OCR_for_NumberPlate.ipynb: OCR over all cropped images and storing it in a list 
 6. Description.pdf: Entire problem statement and steps to follow for executing the project
 7. Train.txt,Valid.txt,obj.names,obj.data: Requirements for YOLOv3 as explained in description.pdf
+
+
+### For understanding YOLOv3 training set, click [here](https://medium.com/@mehulgupta_7991/image-labelling-for-yolo-using-yolo-mark-c58eb75b77fd?source=friends_link&sk=d7957d821ed7ea33e177ad766578f63a) 
