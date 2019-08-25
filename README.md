@@ -1,4 +1,5 @@
 # TCS_HUMAIN
+### Git clone : https://github.com/AlexeyAB/darknet.git
 
 ### Download the following from given links
 
