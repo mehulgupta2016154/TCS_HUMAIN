@@ -9,7 +9,7 @@
 #### [validation dataset](https://drive.google.com/file/d/1as5wGXC3M4ErAYn9Q0vxeLPwlS5JInNV/view?usp=sharing)
 
 
-#### All other information regarding the setup can be found out in Description FILE
+#### All other information regarding the setup can be found out in Description FILE. Link to yolo-config is also there itself
 
 ## Different files and their roles:
 1. Cropping_Plates_from_Detection_YOLOv3_for_OCR.ipynb: Crop output objects from YOLOv3 for OCR
